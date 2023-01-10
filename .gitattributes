@@ -3,3 +3,4 @@
 Assets/* filter=lfs diff=lfs merge=lfs -text
 Assets/TerrainTexturesPackFree/TerrainTextures/* filter=lfs diff=lfs merge=lfs -text
 C:/Users/vonku/Downloads/Projects/CS_ELEC3B_FinalExam_Guron[[:space:]]Project[[:space:]]File/CS_ELEC3B_FinalExam_Guron/Assets/TerrainTexturesPackFree/*.png filter=lfs diff=lfs merge=lfs -text
+Assets/CarWithSandardAssets/map/communityMap/materials/MetalCorrodedHeavy001/*.tif filter=lfs diff=lfs merge=lfs -text
